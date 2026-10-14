@@ -1,5 +1,5 @@
 
-# Lab 06 — SSH Authentication Log Analysis and Detection
+# SSH Authentication Log Analysis and Detection
 
 ## Objective
 
